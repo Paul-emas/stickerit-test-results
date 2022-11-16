@@ -13,16 +13,15 @@ Must haves:
 - Use of appropriate MUI components (e.g. Button)
 - Update the README.md with:
   - What you'd do if you had more time
-  - Ans:
-  * Refactor the Navbar component by splitting the code into smaller components
-  * Add Types instead of using the 'any' keyword
-  * Use the atomic desgin folder structure
-  * Create stories for major component
-  * Work on the desktop searchbar
+  - Refactor the Navbar component by splitting the code into smaller components
+  - Add Types instead of using the 'any' keyword
+  - Use the atomic desgin folder structure
+  - Create stories for major component
+  - Work on the desktop searchbar
   - What design or UX improvements you'd make?
-  * Add Skeleton loader while fetching data from a remote server
-  * Simplify the menu structure (e.g data from CMS and reimplement the mega menu approach to have less options)
-  * Move megamenu links to the footer
+  - Add Skeleton loader while fetching data from a remote server
+  - Simplify the menu structure (e.g data from CMS and reimplement the mega menu approach to have less options)
+  - Move megamenu links to the footer
 
 Not required:
 
