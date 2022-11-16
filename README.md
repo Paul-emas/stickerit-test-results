@@ -20,7 +20,7 @@ Must haves:
   - Work on the desktop searchbar
   - What design or UX improvements you'd make?
   - Add Skeleton loader while fetching data from a remote server
-  - Simplify the menu structure (e.g data from CMS and reimplement the mega menu approach to have less options)
+  - Simplify the menu structure (e.g data from CMS and reimplement the mega menu approach to have lesser options)
   - Move megamenu links to the footer
 
 Not required:
