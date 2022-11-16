@@ -1,0 +1,43 @@
+name: Build and Publish Storybook
+
+on:
+  push:
+    branches:
+      - "main"
+
+jobs:
+  build:
+    name: Build and Publish Storybook
+    runs-on: [self-hosted, linux]
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v2
+      - name: Use Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: "16.x"
+          registry-url: "https://npm.pkg.github.com"
+          scope: "@kartdavid"
+      - id: thetag
+        uses: mad9000/actions-find-and-replace-string@2
+        with:
+          source: ${{ github.ref }} # this translates to ref/heads/main on the main branch, but can be any arbitrary string
+          find: "refs/tags/" # we want to remove ref/heads/ from source
+          replace: "" # and replace it with a blank string (ie. removing it)
+      - run: yarn install --pure-lockfile
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+      - run: yarn run build-storybook
+        env:
+          TAG: ${{ steps.thetag.outputs.value }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+      # Publishes to Live
+      - uses: jakejarvis/s3-sync-action@v0.5.1
+        with:
+          args: --acl public-read --follow-symlinks
+        env:
+          AWS_S3_BUCKET: red-sun
+          AWS_ACCESS_KEY_ID: HNRWWCCZFIWSMVFBOLUT
+          AWS_SECRET_ACCESS_KEY: bH5e6SR15RZzTNHPqoWMxdwgNaKRXZNCLsMUee7v
+          AWS_S3_ENDPOINT: https://objects.dc-sto1.glesys.net
+          SOURCE_DIR: storybook-static

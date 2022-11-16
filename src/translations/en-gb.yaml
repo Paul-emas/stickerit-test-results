@@ -1,0 +1,29 @@
+FilePurpose:
+  PurposeCustomerArtwork: Customer Artwork
+  PurposeCutFile: Cut File
+  PurposeDesignWorkingFile: Design Working File
+  PurposePrintReadyArtwork: Print Ready Artwork
+  PurposeProof: Proof Bitmap
+  PurposeProductSpecification: Product Specification
+OrderProgress:
+  steps:
+    # Top level comment
+    placed:
+      # Title comment
+      title: Order placed
+      description: Your order has been placed
+    design:
+      title: Design in progress
+      description: Your design is just being edited
+      modalTitle: Design in progress
+      modalDescription: Our design team has received your artwork and
+        are preparing a design proof. We complete various checks to
+        ensure your design prints perfectly.
+    feedback:
+      title: Feedback required
+      description: Please provide feedback about your proof
+      description_plural: Please provide feedback about your %{count}proofs
+      modalTitle: Feedback required
+      modalDescription: Please review your design proof. If you are happy,
+        click approve, and we will start printing. If you would like changes,
+        request them for free until your design is perfect.

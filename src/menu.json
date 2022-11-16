@@ -1,0 +1,270 @@
+{
+  "primary": [
+    {
+      "id": "clacsstfa000008la2o2p1ava",
+      "title": "Stickers",
+      "type": "group",
+      "open": true,
+      "items": [
+        {
+          "id": "clacstjbg000308lafnj14s02",
+          "title": "View All",
+          "linkTo": "/custom-stickers",
+          "showOnDesktop": false
+        },
+        {
+          "id": "clacstjbg000308lafnj14s03",
+          "title": "Most Popular",
+          "items": [
+            {
+              "id": "clacstjbg000308lafnj14s05",
+              "title": "Biodegradable Stickers",
+              "subtitle": "Custom cut around your design",
+              "iconUrl": "https://v3-media.stickerit.co/64227/1649140504-biodegradable-sticker-product-icon.png?auto=format&w=48"
+            },
+            {
+              "id": "clacstjbg000308lafnj14s06",
+              "title": "Eco-friendly white stickers",
+              "subtitle": "Custom cut around your design",
+              "iconUrl": "https://v3-media.stickerit.co/64227/1649140504-biodegradable-sticker-product-icon.png?auto=format&w=48"
+            },
+            {
+              "id": "clacstjbg000308lafnj14s07",
+              "title": "Eco-friendly clear stickers",
+              "subtitle": "Custom cut around your design",
+              "iconUrl": "https://v3-media.stickerit.co/64227/1653071948-eco-friendly-clear-sticker-product-icon.png?auto=format&w=48"
+            },
+            {
+              "id": "clacsu6d0000408la53ybedhj",
+              "title": "Eco-friendly kiss cut stickers",
+              "subtitle": "Custom cut around your design",
+              "iconUrl": "https://v3-media.stickerit.co/64227/1649140530-clear-sticker-product-icon.png?auto=format&w=48"
+            }
+          ],
+          "moreSection": {
+            "title": "Load More",
+            "linkTo": "/all-stickers/?popular=true"
+          }
+        },
+        {
+          "id": "clacstjbg000308lafnj14s04",
+          "title": "Sustainable Stickers",
+          "items": [
+            {
+              "id": "clacstjbg000308lafnj14s05",
+              "title": "Biodegradable Stickers",
+              "subtitle": "Custom cut around your design",
+              "iconUrl": "https://v3-media.stickerit.co/64227/1649140504-biodegradable-sticker-product-icon.png?auto=format&w=48"
+            },
+            {
+              "id": "clacstjbg000308lafnj14s06",
+              "title": "Eco-friendly white stickers",
+              "subtitle": "Custom cut around your design",
+              "iconUrl": "https://v3-media.stickerit.co/64227/1649140504-biodegradable-sticker-product-icon.png?auto=format&w=48"
+            },
+            {
+              "id": "clacstjbg000308lafnj14s07",
+              "title": "Eco-friendly clear stickers",
+              "subtitle": "Custom cut around your design",
+              "iconUrl": "https://v3-media.stickerit.co/64227/1653071948-eco-friendly-clear-sticker-product-icon.png?auto=format&w=48"
+            },
+            {
+              "id": "clacsu6d0000408la53ybedhj",
+              "title": "Eco-friendly kiss cut stickers",
+              "subtitle": "Custom cut around your design",
+              "iconUrl": "https://v3-media.stickerit.co/64227/1649140530-clear-sticker-product-icon.png?auto=format&w=48"
+            }
+          ],
+          "moreSection": {
+            "title": "Load More",
+            "linkTo": "/eco-friendly-stickers/"
+          }
+        },
+        {
+          "id": "clacstjbg000308lafnj14s6a",
+          "title": "Other ways to shop",
+          "items": [
+            {
+              "id": "clacstjbg000308lafnj14s05",
+              "title": "Biodegradable Stickers",
+              "subtitle": "Custom cut around your design",
+              "iconUrl": "https://v3-media.stickerit.co/64227/1649140504-biodegradable-sticker-product-icon.png?auto=format&w=48"
+            },
+            {
+              "id": "clacstjbg000308lafnj14s06",
+              "title": "Eco-friendly white stickers",
+              "subtitle": "Custom cut around your design",
+              "iconUrl": "https://v3-media.stickerit.co/64227/1649140504-biodegradable-sticker-product-icon.png?auto=format&w=48"
+            },
+            {
+              "id": "clacstjbg000308lafnj14s07",
+              "title": "Eco-friendly clear stickers",
+              "subtitle": "Custom cut around your design",
+              "iconUrl": "https://v3-media.stickerit.co/64227/1653071948-eco-friendly-clear-sticker-product-icon.png?auto=format&w=48"
+            },
+            {
+              "id": "clacsu6d0000408la53ybedhj",
+              "title": "Eco-friendly kiss cut stickers",
+              "subtitle": "Custom cut around your design",
+              "iconUrl": "https://v3-media.stickerit.co/64227/1649140530-clear-sticker-product-icon.png?auto=format&w=48"
+            },
+            {
+              "id": "clacsu6d0000408la53ybedh8",
+              "title": "Shop karting",
+              "subtitle": "Custom cut around your design",
+              "iconUrl": "https://v3-media.stickerit.co/64227/1649140530-clear-sticker-product-icon.png?auto=format&w=48"
+            }
+          ]
+        },
+        {
+          "id": "clagosdp6000008mkezro62r5",
+          "title": "Help me choose",
+          "type": "ImageWithButton",
+          "imageUrl": "https://v3-media.stickerit.co/64227/1658308048-assorted-stickers-applied-to-a-wall.jpeg?auto=format&w=230",
+          "buttonText": "Get Started",
+          "linkTo": "/get-started"
+        }
+      ]
+    },
+    {
+      "id": "clacst2sg000108laby259zqf",
+      "type": "divider"
+    },
+    {
+      "id": "clacstabu000208ladbpl31s1",
+      "title": "Labels",
+      "type": "group",
+      "items": [
+        {
+          "id": "clacsuue4000508lab1fg152z",
+          "title": "View All",
+          "items": [
+            {
+              "id": "clacsuue4000508lab1fg552l",
+              "title": "Biodegradable Stickers",
+              "subtitle": "Custom cut around your design",
+              "iconUrl": "https://v3-media.stickerit.co/64227/1649140504-biodegradable-sticker-product-icon.png?auto=format&w=48"
+            },
+            {
+              "id": "clacsuue4000508lab1fg5522",
+              "title": "Eco-friendly white stickers",
+              "subtitle": "Custom cut around your design",
+              "iconUrl": "https://v3-media.stickerit.co/64227/1649140504-biodegradable-sticker-product-icon.png?auto=format&w=48"
+            },
+            {
+              "id": "clacsuue4000508lab1fg5525",
+              "title": "Eco-friendly clear stickers",
+              "subtitle": "Custom cut around your design",
+              "iconUrl": "https://v3-media.stickerit.co/64227/1653071948-eco-friendly-clear-sticker-product-icon.png?auto=format&w=48"
+            },
+            {
+              "id": "clacsuue4000508lab1fg5529",
+              "title": "Eco-friendly kiss cut stickers",
+              "subtitle": "Custom cut around your design",
+              "iconUrl": "https://v3-media.stickerit.co/64227/1649140530-clear-sticker-product-icon.png?auto=format&w=48"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "clacst2sg000108laby259zq3",
+      "type": "single",
+      "title": "Create a design",
+      "linkTo": "/start-my-design"
+    },
+    {
+      "id": "clacst2sg000108laby259zq8",
+      "type": "group",
+      "title": "Start a design",
+      "linkTo": "/start-my-design"
+    },
+    {
+      "id": "clacst2sg000108laby259zqa",
+      "type": "single",
+      "title": "Reorder",
+      "linkTo": "/reorder"
+    }
+  ],
+  "secondary": [
+    {
+      "id": "clacstabu000208ladbpl31s1",
+      "title": "Support",
+      "type": "group",
+      "items": [
+        {
+          "id": "clagnykhy000008kxhsyb5o30",
+          "title": "How to order",
+          "linkTo": "/how-to-order"
+        },
+        {
+          "id": "clagnykhy000008kxhsyb5o31",
+          "title": "Delivery Information",
+          "linkTo": "/delivery-information"
+        },
+        {
+          "id": "clagnykhy000008kxhsyb5o3a",
+          "title": "Track my order",
+          "linkTo": "/track"
+        }
+      ]
+    },
+    {
+      "id": "clago0hbx000108kxfoi208qi",
+      "title": "About",
+      "type": "group",
+      "items": [
+        {
+          "id": "clago0w1h000308kxeuy75uer",
+          "title": "Our story",
+          "linkTo": "/about/our-story/"
+        },
+        {
+          "id": "clago105g000408kxc3gyff0x",
+          "title": "Blog",
+          "linkTo": "/blog"
+        },
+        {
+          "id": "clago13k1000508kxfrbm6ttf",
+          "title": "Careers",
+          "linkTo": "/careers"
+        },
+        {
+          "id": "clago25ua000608kx37xkbr53",
+          "title": "Culture",
+          "linkTo": "/about/culture"
+        }
+      ]
+    },
+    {
+      "id": "clago38es000708kxb54pagji",
+      "title": "My Account",
+      "icon": "Account",
+      "type": "group",
+      "items": [
+        {
+          "id": "clago3dxf000808kx7k478dok",
+          "title": "Login",
+          "linkTo": "/login"
+        },
+        {
+          "id": "clago3dxf000808kx7k478do8",
+          "title": "Register",
+          "linkTo": "/register"
+        }
+      ]
+    },
+    {
+      "id": "clago4ld6000908kxc8tndi52",
+      "title": "Search",
+      "type": "search",
+      "icon": "Search"
+    },
+    {
+      "id": "clago94c9000a08kxbr8w0rbw",
+      "title": "Cart",
+      "type": "Cart",
+      "icon": "Cart"
+    }
+  ]
+}
