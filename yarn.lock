@@ -9182,10 +9182,10 @@ dataloader@2.0.0:
   resolved "https://registry.yarnpkg.com/dataloader/-/dataloader-2.0.0.tgz#41eaf123db115987e21ca93c005cd7753c55fe6f"
   integrity sha512-YzhyDAwA4TaQIhM5go+vCLmU0UikghC/t9DTQYZR2M/UvZ1MdOhPezSDZcjj9uqQJOMqjLcpWtyW2iNINdlatQ==
 
-date-fns-tz@^1.2.2:
-  version "1.2.2"
-  resolved "https://registry.yarnpkg.com/date-fns-tz/-/date-fns-tz-1.2.2.tgz#89432b54ce3fa7d050a2039e997e5b6a96df35dd"
-  integrity sha512-vWtn44eEqnLbkACb7T5G5gPgKR4nY8NkNMOCyoY49NsRGHrcDmY2aysCyzDeA+u+vcDBn/w6nQqEDyouRs4m8w==
+date-fns-tz@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/date-fns-tz/-/date-fns-tz-2.0.0.tgz#1b14c386cb8bc16fc56fe333d4fc34ae1d1099d5"
+  integrity sha512-OAtcLdB9vxSXTWHdT8b398ARImVwQMyjfYGkKD2zaGpHseG2UPHbHjXELReErZFxWdSLph3c2zOaaTyHfOhERQ==
 
 date-fns@^2.25.0, date-fns@^2.28.0:
   version "2.28.0"
